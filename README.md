@@ -1,18 +1,16 @@
-# Introducción
-¡Hola! Soy fladmorty1987, un desarrollador con pasión por la tecnología y la innovación.
+# fladmorty1987
 
-# Habilidades
-- JavaScript
-- Python
-- React
-- Node.js
-- SQL
+**Tema:** data-science
 
-# Proyectos
-- [Proyecto1](https://github.com/fladmorty1987/proyecto1): Una aplicación web para gestionar tareas.
-- [Proyecto2](https://github.com/fladmorty1987/proyecto2): Un juego en línea multijugador.
+## Sobre mí
+Enfocado en data-science.
 
-# Contactos
-Puedes encontrarme en:
-- [Twitter](https://twitter.com/fladmorty1987)
-- [LinkedIn](https://linkedin.com/in/fladmorty1987)
+## Tech
+- Python · Git · CI/CD
+- - data-science
+- pandas
+- numpy
+- visualization
+
+## Enlaces
+- Perfil: https://github.com/fladmorty1987
