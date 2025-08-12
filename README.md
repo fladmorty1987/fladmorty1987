@@ -33,3 +33,4 @@ Currently focusing on front-end development, leveraging modern frameworks to bui
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fladmorty1987&layout=compact&theme=merko" height="130"/> <img src="https://github-readme-stats.vercel.app/api?username=fladmorty1987&show_icons=true&theme=merko" height="130"/></p>
 <p><img src="https://streak-stats.demolab.com/?user=fladmorty1987&theme=merko" height="150"/></p>
+
