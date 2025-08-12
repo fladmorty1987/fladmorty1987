@@ -1,32 +1,35 @@
-# 👨‍💻 fladmorty1987
+# 👋 Welcome to fladmorty1987's GitHub Profile!
+
 ![Profile Views](https://komarev.com/ghpvc/?username=fladmorty1987&label=Profile%20Views&color=blue&style=flat)
 
+## 🚀 Short Pitch
+Creating interactive experiences that bridge the gap between users and technology.
+
+## 📄 Summary
+I'm a dedicated web developer with experience in crafting responsive web applications. My goal is to enhance user engagement through innovative solutions.
+
+## 🎯 Focus
+Currently focusing on front-end development, leveraging modern frameworks to build seamless user interfaces and engaging web experiences.
+
 ## 🛠️ Toolkit
-[![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![R](https://img.shields.io/badge/R-4.1.0-blue?style=flat-square&logo=R&logoColor=white)](https://www.r-project.org/)
-[![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.5.0-blue?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
 
-## 🔍 Highlights
-- **🍀 Passion for Data**: I believe every dataset holds a story waiting to be told.
-- **💡 Innovative Solutions**: Constantly seeking novel ways to analyze and visualize data.
-- **🤝 Collaboration**: Enjoy working in cross-functional teams to achieve project goals.
+## 🌟 Highlights
+- Developed a full-stack application for seamless user management.
+- Contributed to open-source projects, enhancing community-driven software.
+- Spearheaded a team project that redesigned a major client website, improving load time by 40%.
 
-## 📚 Current Projects
-| Project Name | Description                             | Status     |
-|--------------|-----------------------------------------|------------|
-| HealthLens  | Predictive analytics for healthcare     | In Progress|
-| FinTech AI   | Machine learning for financial markets  | Completed  |
-| EcoTrack    | Sustainability trends analysis          | Planning   |
+## 📊 Stats
+![fladmorty1987's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fladmorty1987&show_icons=true&theme=radical)
 
-## 📞 Contact
-- [GitHub Profile](https://github.com/fladmorty1987)  
-- [Telegram](https://t.me/fladmorty1987)  
+## 📫 Contact
+- GitHub: [https://github.com/fladmorty1987](https://github.com/fladmorty1987)
+- Telegram: [https://t.me/fladmorty1987](https://t.me/fladmorty1987)
 
-<sub>id:17550075</sub>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fladmorty1987&layout=compact&theme=tokyonight" height="130" alt="langs"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=fladmorty1987&show_icons=true&theme=tokyonight" height="130" alt="stats"/>
-</p>
-<p><img src="https://streak-stats.demolab.com/?user=fladmorty1987&theme=tokyonight" height="150" alt="streak"/></p>
+<sub>id:17550086</sub>
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fladmorty1987&layout=compact&theme=merko" height="130"/> <img src="https://github-readme-stats.vercel.app/api?username=fladmorty1987&show_icons=true&theme=merko" height="130"/></p>
+<p><img src="https://streak-stats.demolab.com/?user=fladmorty1987&theme=merko" height="150"/></p>
